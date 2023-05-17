@@ -1,0 +1,32 @@
+/* TEMPORARY */
+header{
+    border: 2px solid purple;
+    min-height: 100px;
+}
+
+.container{
+    border: 1px dashed black;
+}
+
+section{
+    border: 2px solid orange;
+    min-height: 200px;
+}
+
+section.jumbotron{
+    border: 2px solid lightseagreen;
+}
+
+.row{
+    border: 2px solid red;
+}
+
+.col{
+    border: 2px solid green;
+    min-height: 100px;
+}
+
+footer{
+    border: 2px solid darkslateblue;
+    min-height: 150px;
+}
