@@ -33,12 +33,23 @@
 
 /* ******UTILITIES******** */
 .bg-blue{
-    background-color: #2c3e50;
+    background-color: #3a546d;
+    color: white;
 }
 
 .bg-tiffany{
     background-color: #1abc9c;
     color: white;
+}
+
+.bg-darkblue{
+    background-color: #2c3e50;
+    color: white;
+}
+
+.text-tiffany{
+    color: #1abc9c;
+    text-decoration: none;
 }
 
 main{
