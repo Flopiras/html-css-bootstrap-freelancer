@@ -4,18 +4,18 @@
     min-height: 100px;
 } */
 
-.container{
+/* .container{
     border: 1px dashed black;
-}
+} */
 
-section{
+/* section{
     border: 2px solid orange;
     min-height: 200px;
-}
+} */
 
-section.jumbotron{
+/* section.jumbotron{
     border: 2px solid lightseagreen;
-}
+} */
 
 /* .row{
     border: 2px solid red;
@@ -26,10 +26,10 @@ section.jumbotron{
     min-height: 100px;
 } */
 
-footer{
+/* footer{
     border: 2px solid darkslateblue;
     min-height: 150px;
-}
+} */
 
 /* ******UTILITIES******** */
 .bg-blue{
@@ -39,6 +39,10 @@ footer{
 .bg-tiffany{
     background-color: #1abc9c;
     color: white;
+}
+
+main{
+    color: #2c3e50;
 }
 
 header{
@@ -55,6 +59,6 @@ nav a{
 }
 
 .my-line{
-    border: 2px solid white;
+    border: 2px solid currentColor;
     border-radius: 30px;
 }
