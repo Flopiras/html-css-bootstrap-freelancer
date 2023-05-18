@@ -21,7 +21,7 @@ section.jumbotron{
     border: 2px solid red;
 }
 
-.col{
+[class^='col']{
     border: 2px solid green;
     min-height: 100px;
 }
